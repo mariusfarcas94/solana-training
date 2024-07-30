@@ -1,0 +1,11 @@
+/Users/mfs/forge/crypto/solana-training/lab_7/target/debug/deps/libark_serialize-5d59f66b6fd87442.rmeta: /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/Users/mfs/forge/crypto/solana-training/lab_7/target/debug/deps/libark_serialize-5d59f66b6fd87442.rlib: /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/Users/mfs/forge/crypto/solana-training/lab_7/target/debug/deps/ark_serialize-5d59f66b6fd87442.d: /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md:

@@ -1,0 +1,9 @@
+Streaming transaction logs mentioning CtB29NcvvauDXLhBJEHt9YMxv23d6Tyopt2FHWfgoLKc. Confirmed commitment
+Transaction executed in slot 3:
+  Signature: 2PSCgwNEYRRcvvuNKbfHvCKiA5hFzAP1cL2AoK72y3F5GCcxep3S4mZ3URxzXr92nErq5sVMdWJP9heAnZkKnZTZ
+  Status: Ok
+  Log Messages:
+    Program CtB29NcvvauDXLhBJEHt9YMxv23d6Tyopt2FHWfgoLKc invoke [1]
+    Program log: Instruction: Initialize
+    Program CtB29NcvvauDXLhBJEHt9YMxv23d6Tyopt2FHWfgoLKc consumed 220 of 200000 compute units
+    Program CtB29NcvvauDXLhBJEHt9YMxv23d6Tyopt2FHWfgoLKc success

@@ -1,0 +1,12 @@
+/Users/mfs/forge/crypto/solana-training/lab_7/target/debug/deps/libsha2-41ef9f9d8c84c42f.rmeta: /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/lib.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/consts.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/soft.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/mfs/forge/crypto/solana-training/lab_7/target/debug/deps/libsha2-41ef9f9d8c84c42f.rlib: /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/lib.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/consts.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/soft.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/mfs/forge/crypto/solana-training/lab_7/target/debug/deps/sha2-41ef9f9d8c84c42f.d: /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/lib.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/consts.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/soft.rs /Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/lib.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/consts.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/soft.rs:
+/Users/mfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/soft.rs:
